@@ -66,10 +66,6 @@ Most days, you'll find me breaking things (intentionally) and learning how to fi
   <img src="https://github-contribution-graph.ez4o.com/?username=Deekshith-goud&bg=0d1117&color=2f81f7&point=f97316&hide_border=true&area=true" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2f81f7/Deekshith-goud" alt="GitHub chart" />
-</p>
-
 ---
 
 <!-- Footer Wave -->
