@@ -36,15 +36,15 @@ Most days, you'll find me breaking things (intentionally) and learning how to fi
 
 ### 📬 Contact Me
 
-<p>
+<p align="left">
   <a href="mailto:deekshithgoud7101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email" />
   </a>
   <a href="https://github.com/Deekshith-goud">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   </a>
   <a href="https://instagram.com/Senbonzakura_Kageyashi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram" />
   </a>
 </p>
 
