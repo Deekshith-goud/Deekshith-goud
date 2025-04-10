@@ -1,83 +1,86 @@
-<!-- Hero Banner -->
+## Hi there 👋
+
+<!-- Typing Intro Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,100:38bdf8&height=180&section=header&text=Hey%20I'm%20Deekshith%20Goud!%20%F0%9F%91%8B&fontColor=0d1117&fontSize=36&desc=Curious%20Coder%20%7C%20Tech%20Explorer%20%7C%20Python%20Magician&descSize=20&descAlign=50&descAlignY=70" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Deekshith+Goud!;Curious+Coder+%7C+Tech+Explorer+%F0%9F%9A%80;Python+%7C+C+%7C+Java+Lover+%F0%9F%92%BB;Always+Learning+%26+Building!" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Code.+Build.+Break.+Fix.+Repeat.;Scripting+my+developer+journal...;Turning+coffee+%E2%98%95%EF%B8%8F+into+code+%F0%9F%92%BB;Welcome+to+my+interactive+README!+%F0%9F%92%80" />
-</p>
-
----
-
-## 🧑‍💻 Terminal Logs – `whoami`
-
-
----
-
-## 🏆 Achievements
-
-- 🚍 Built a **real-time Bus Tracker App** with Python + Geo APIs + Firebase  
-- 🌿 Prototyping a **sustainability app** with token-based rewards  
-- 🧠 Working on an **AI-powered mental health chatbot** concept  
-- 🛠️ Studying **Toyota’s Just-In-Time (JIT)** system for inventory control inspiration  
-- 🐍 Created fun Python automation and mini-games just for the thrill
-
----
-
-## ⚙️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,git,github,linux,vscode,bash,firebase,docker,figma,postman&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=120&section=header&text=&fontColor=FFFFFF" />
 </p>
 
 ---
 
-## 💡 Interests
+### 👋 About Me
 
-- 🪐 Space exploration & cosmic phenomena  
-- ♟️ Chess lover — strategy sharpens my code  
-- 🧪 Building weird Python automations  
-- 🎮 Tinkering with logic games and terminal tools  
-- 🎧 Lo-fi beats + caffeine = my dev setup
+Hey there! I'm **Deekshith Goud**, a developer who loves to experiment and explore new technologies.  
+I'm always **curious with code** and passionate about making cool stuff with **Python**, **Java**, and **C**.  
+Most days, you'll find me breaking things (intentionally) and learning how to fix them again 🧠
 
 ---
 
-## ✨ Fun Facts
+### 🧠 Languages & Tools I Use
 
-- 🧪 I purposely break my code… just to debug it better  
-- 🎧 My code compiles smoother when lo-fi is playing  
-- 🚀 I’ve read way too many articles on Mars colonization  
-- 🧠 I learn by teaching and mentoring
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+</p>
 
 ---
 
-## 📜 Quotes That Guide Me
+### 📬 Contact Me
+
+<p>
+  <a href="mailto:deekshithgoud7101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Deekshith-goud">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Senbonzakura_Kageyashi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎯 Hobbies & Interests
+
+- 🚀 Fascinated by **space discoveries** and staying up-to-date with cosmic phenomena  
+- 🧪 Love **experimenting with Python** to unlock creative, quirky, and unexpected outcomes  
+- ♟️ Enjoy playing strategic games like **chess** to sharpen focus and critical thinking
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deekshith-goud&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deekshith-goud&theme=github-dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshith-goud&layout=compact&theme=github_dark&hide_border=true&langs_count=5" />
+</p>
+
+---
+
+### 🧠 *Words of Wisdom*
 
 > *“The mind must be trained to endure the chaos of conflict and the calm of strategy.”*  
 > — **Robert Greene**
 
-> *“The best way to predict the future is to invent it.”*  
-> — **Alan Kay**
-
 ---
 
-## 📊 GitHub Stats
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deekshith-goud&show_icons=true&theme=radical&hide_border=true&custom_title=My%20GitHub%20Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Deekshith-goud&theme=radical&hide_border=true&border_radius=4.5" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshith-goud&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</p>
-
----
-
-## 📈 Contribution Universe
-
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=Deekshith-goud&bg=0d1117&color=38bdf8&point=facc15&hide_border=true&area=true" />
+  <img src="https://github-contribution-graph.ez4o.com/?username=Deekshith-goud&bg=0d1117&color=2f81f7&point=f97316&hide_border=true&area=true" />
 </p>
 
 <p align="center">
@@ -86,16 +89,7 @@
 
 ---
 
-## 📬 Connect With Me
-
+<!-- Footer Wave -->
 <p align="center">
-  <a href="mailto:deekshithgoud7101@gmail.com"><img src="https://img.shields.io/badge/email-deekshithgoud7101@gmail.com-%23facc15?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://github.com/Deekshith-goud"><img src="https://img.shields.io/badge/github-@Deekshith--goud-38bdf8?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:facc15&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120" />
 </p>
