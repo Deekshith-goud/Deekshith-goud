@@ -36,17 +36,10 @@ Most days, you'll find me breaking things (intentionally) and learning how to fi
 
 ### 📬 Contact Me
 
-<p align="left">
-  <a href="mailto:deekshithgoud7101@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email" />
-  </a>
-  <a href="https://github.com/Deekshith-goud">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/Senbonzakura_Kageyashi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram" />
-  </a>
-</p>
+
+- 📧 Email: [deekshithgoud7101@gmail.com](mailto:deekshithgoud7101@gmail.com)  
+- 🐙 GitHub: [Deekshith-goud](https://github.com/Deekshith-goud)  
+- 📸 Instagram: [@Senbonzakura_Kageyashi](https://instagram.com/Senbonzakura_Kageyashi)
 
 ---
 
