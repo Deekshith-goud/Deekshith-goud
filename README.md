@@ -34,6 +34,20 @@ Most days, you'll find me breaking things (intentionally) and learning how to fi
 
 ---
 
+### 📬 Contact Me
+
+- 📧 Email: [deekshithgoud7101@gmail.com](mailto:deekshithgoud7101@gmail.com)
+
+---
+
+### 🎯 Hobbies & Interests
+
+- 🚀 Staying up-to-date with **space discoveries** and cosmic phenomena  
+- 🧪 **Tinkering with Python** to explore creative and unusual possibilities  
+- ♟️ Playing strategic games like **chess** to keep the brain sharp
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -56,17 +70,9 @@ Most days, you'll find me breaking things (intentionally) and learning how to fi
   <img src="https://ghchart.rshah.org/2f81f7/Deekshith-goud" alt="GitHub chart" />
 </p>
 
-
-
-
-
 ---
 
 <!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120" />
 </p>
-
-
-
-
