@@ -40,7 +40,9 @@ Most days, you'll find me breaking things (intentionally) and learning how to fi
 - 📧 Email: [deekshithgoud7101@gmail.com](mailto:deekshithgoud7101@gmail.com)  
 - 🐙 GitHub: [Deekshith-goud](https://github.com/Deekshith-goud)  
 - 📸 Instagram: [@Senbonzakura_Kageyashi](https://instagram.com/Senbonzakura_Kageyashi)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your_username)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Deekshith_Hacker)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Deekshith_Hacker)
+
 
 
 ---
