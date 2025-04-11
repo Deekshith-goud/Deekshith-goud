@@ -37,7 +37,7 @@ Most days, you'll find me breaking things (intentionally) and learning how to fi
   <div style="width: 10px; height: 40px; background-color: #00c200; margin-left: 5px;"></div>
 </div>
   <a href="https://www.hackerrank.com/Deekshith_Hacker">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40" alt="HackerRank" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40" style="filter: hue-rotate(120deg);" alt="HackerRank" />
   </a>
 
  
