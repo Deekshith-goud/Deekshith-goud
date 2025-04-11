@@ -30,18 +30,8 @@ Most days, you'll find me breaking things (intentionally) and learning how to fi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40" alt="HackerRank" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40" alt="HackerRank" />
-  <div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40" alt="HackerRank" />
-  <div style="width: 10px; height: 40px; background-color: #00c200; margin-left: 5px;"></div>
-</div>
-  <a href="https://www.hackerrank.com/Deekshith_Hacker">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40" style="filter: hue-rotate(120deg);" alt="HackerRank" />
-  </a>
-
- 
-
+  
 </p>
 
 ---
@@ -53,7 +43,6 @@ Most days, you'll find me breaking things (intentionally) and learning how to fi
 - 🐙 GitHub: [Deekshith-goud](https://github.com/Deekshith-goud)  
 - 📸 Instagram: [@Senbonzakura_Kageyashi](https://instagram.com/Senbonzakura_Kageyashi)
 - [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Deekshith_Hacker)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Deekshith_Hacker)
 
 
 
