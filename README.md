@@ -32,6 +32,11 @@ Most days, you'll find me breaking things (intentionally) and learning how to fi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40" alt="HackerRank" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40" alt="HackerRank" />
+  <div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40" alt="HackerRank" />
+  <div style="width: 10px; height: 40px; background-color: #00c200; margin-left: 5px;"></div>
+</div>
+
  
 
 </p>
