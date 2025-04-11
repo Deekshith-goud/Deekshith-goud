@@ -30,8 +30,9 @@ Most days, you'll find me breaking things (intentionally) and learning how to fi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40" alt="HackerRank" style="background:white; border-radius:8px; padding:2px;" />
-
+  <span style="background-color: #000000; padding: 4px 6px; border-radius: 6px; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="30" height="30" alt="HackerRank" title="HackerRank" />
+  </span>
 
 </p>
 
