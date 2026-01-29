@@ -1,94 +1,86 @@
-
-## Hi there 👋
-
-<!-- Typing Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Deekshith+Goud!;Curious+Coder+%7C+Tech+Explorer+%F0%9F%9A%80;Python+%7C+C+%7C+Java+Lover+%F0%9F%92%BB;Always+Learning+%26+Building!" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=DEEKSHITH%20GOUD&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=38BDF8" />
 </p>
 
-<!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=120&section=header&text=&fontColor=FFFFFF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=System.Status(Active);Architecting+the+Future+at+Vignan;Space+Curiouist+%7C+Code+Minimalist;Turning+Coffee+into+Complex+Algorithms;">
 </p>
 
----
-
-### 👋 About Me
-
-Hey there! I'm **Deekshith Goud**, a developer who loves to experiment and explore new technologies.  
-I'm always **curious with code** and passionate about making cool stuff with **Python**, **Java**, and **C**.  
-Most days, you'll find me breaking things (intentionally) and learning how to fix them again 🧠
-
----
-
-### 🧠 Languages & Tools I Use
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40" alt="HackerRank" />
-  
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Character_Energy-Active-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Logic_Architect-Certified-007ACC?style=for-the-badge" />
 </p>
 
 ---
 
-### 📬 Contact Me
+### 🗂️ THE PROJECT VAULT (Major Flex)
 
+<div align="center">
 
-- 📧 Email: [deekshithgoud7101@gmail.com](mailto:deekshithgoud7101@gmail.com)  
-- 🐙 GitHub: [Deekshith-goud](https://github.com/Deekshith-goud)  
-- 📸 Instagram: [@Senbonzakura_Kageyashi](https://instagram.com/Senbonzakura_Kageyashi)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Deekshith_Hacker)
+| 🚀 [VignanSync](https://github.com/deekshith-goud) | 📊 [EduGraph](https://github.com/deekshith-goud) | 🛡️ [Safety Portal](https://github.com/deekshith-goud) |
+| :---: | :---: | :---: |
+| *Syncing Academic Life* | *Visualizing Excellence* | *Govt Tech Contribution* |
+| `React` `Node` `MySQL` | `Python` `Data Viz` | `Secure Auth` `UI/UX` |
 
-
-
----
-
-### 🎯 Hobbies & Interests
-
-- 🚀 Fascinated by **space discoveries** and staying up-to-date with cosmic phenomena  
-- 🧪 Love **experimenting with Python** to unlock creative, quirky, and unexpected outcomes  
-- ♟️ Enjoy playing strategic games like **chess** to sharpen focus and critical thinking
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ KINETIC ARSENAL (Skills)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deekshith-goud&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deekshith-goud&theme=github-dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshith-goud&layout=compact&theme=github_dark&hide_border=true&langs_count=5" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mysql,linux,git,html,css,vscode,pycharm&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshith-goud&layout=compact&theme=tokyonight&hide_border=true&card_width=400" />
 </p>
 
 ---
 
-### 🧠 *Words of Wisdom*
-
-> *“The mind must be trained to endure the chaos of conflict and the calm of strategy.”*  
-> — **Robert Greene**
-
----
-
-### 📈 Contribution Graph
+### 🏆 HALL OF FAME
 
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=Deekshith-goud&bg=0d1117&color=2f81f7&point=f97316&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2f81f7/Deekshith-goud" alt="GitHub chart" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Deekshith-goud&theme=shades-of-purple&no-bg=true&margin-w=15&column=4" />
 </p>
 
 ---
 
-<!-- Footer Wave -->
+### ⚡ THE VIBE CHECK (Personal Rizz)
+
+- 🪐 **Cosmic Curiosity:** I track space discoveries like others track sports. The universe is my IDE.
+- 🎨 **Design Philosophy:** I don't do "ugly." If it isn't **Glassmorphic** or **Neobrutal**, I'm rewriting it.
+- ♟️ **Strategic Depth:** Whether it's a Chess match or a complex Data Structure problem, I play to win.
+- 🧠 **Current Hyperfixation:** Mastering Sequential Logic and Psychological World-building.
+
+---
+
+### 📈 METRICS OF DOMINANCE
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deekshith-goud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deekshith-goud&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <b>The Contribution Grind:</b><br>
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user=Deekshith-goud&grid_color=%231e293b&snake_color=%23f97316" />
+</p>
+
+---
+
+### 📡 SECURE TRANSMISSION (Connect)
+
+<p align="center">
+<a href="mailto:deekshithgoud7101@gmail.com"><img src="https://img.shields.io/badge/Transmission-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/Senbonzakura_Kageyashi"><img src="https://img.shields.io/badge/Frequency-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/Deekshith_Hacker"><img src="https://img.shields.io/badge/Rank-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>"The mind must be trained to endure the chaos of conflict and the calm of strategy."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:000000&height=120&section=footer" />
 </p>
