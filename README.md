@@ -71,7 +71,7 @@ A **decision-support procurement system** that analyzes vendor bids and recommen
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deekshith-goud&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deekshith-goud&theme=github-dark&hide_border=true" />
 </p>
 
 
