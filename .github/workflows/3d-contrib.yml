@@ -5,12 +5,16 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch: # Allows you to run it manually
 
+# Explicitly grant the token permission to push code
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Updated to v4 to fix the Node.js warning
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
