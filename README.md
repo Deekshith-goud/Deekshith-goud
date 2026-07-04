@@ -1,24 +1,25 @@
-<h1 align="center">Deekshith Goud</h1>
-
-<p align="center">
-  <kbd>Student</kbd> • <kbd>Systems Thinker</kbd> • <kbd>Builder</kbd>
+<table width="100%">
+  <tr valign="middle">
+    <td width="60%">
+      <h2>Hi, I'm Deekshith Goud 👋</h2>
+      <p>
+        <kbd>Student</kbd> • <kbd>Systems Thinker</kbd> • <kbd>Builder</kbd>
+      </p>
+      <p>
+        <i>I'm a student who builds to explore.<br/>
+        Something bothers me or a question won't let go —<br/>
+        I research until it clicks, then build fast to see if it holds.<br/>
+        The building is how I learn; the learning is why I keep building.</i>
+      </p>
+  <p>
+  <a href="https://www.hackerrank.com/Deekshith_Hacker"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /></a><a href="mailto:deekshithgoud7101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://www.linkedin.com/in/deekshith-goud-8131b6343/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
-<p align="center">
-  <i>I'm a student who builds to explore. Something bothers me or a question won't let go — I research until it clicks, then build fast to see if it holds. The building is how I learn; the learning is why I keep building.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Deekshith-goud">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.hackerrank.com/Deekshith_Hacker">
-    <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="mailto:deekshithgoud7101@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="350" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -51,7 +52,6 @@
         <b>Tools & Build</b>
         <p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git" />&nbsp;&nbsp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub" />&nbsp;&nbsp;
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" title="npm" />&nbsp;&nbsp;
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="36" title="Bun" />&nbsp;&nbsp;
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" title="Vercel" />&nbsp;&nbsp;
@@ -72,15 +72,6 @@
 **[Local Browse Insights — Privacy-First Web Analytics Extension](https://github.com/Deekshith-goud/local-web-analytics-extension)** <br/>
 A production-grade Chrome extension that tracks your browsing habits entirely on-device — no servers, no telemetry, zero external connections. Built with a productivity classifier, interactive dashboards, and a multi-step data purge. The whole idea: your history stays yours.  
 `TypeScript` `React` `Plasmo` `Dexie / IndexedDB` `Manifest V3`
-
-<br/>
-
-## Outside the editor
- 
-- **Chess** — every game is a systems problem with incomplete information and a ticking clock
-- **Formula 1** — strategy, engineering tradeoffs, and real-time decisions colliding at 300 km/h
-- **Space** — launches, missions, and the occasional existential scale check
-- **Tech** — keeping a tab open on what's new, not to stay current, just out of genuine curiosity
 
 <br/>
 
